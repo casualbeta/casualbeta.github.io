@@ -1,2 +1,2 @@
-# casualbeta.github.io
-this is the page for beta testing. wait till it comes out cuz i still dont have a stable release on me
+# A Casual Platformer - Beta Testing
+This is the page for beta testing. Wait until it comes out because I still don't have a stable release on me.
